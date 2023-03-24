@@ -3,7 +3,7 @@
 Plugin Name: URI Global Activities Map
 Plugin URI: http://www.uri.edu
 Description: Display Global Activities Map
-Version: 0.1
+Version: 0.2
 Author: John Pennypacker
 Author URI: 
 */
